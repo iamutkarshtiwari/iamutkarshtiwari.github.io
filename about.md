@@ -12,4 +12,7 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[iamutkarshtiwari@gmail.com](mailto:iamutkarshtiwari@gmail.com)
+
+### Link to Resume: 
+[http://iamutkarshtiwari.github.io/Utkarsh_Tiwari.pdf](http://iamutkarshtiwari.github.io/Utkarsh_Tiwari.pdf)
